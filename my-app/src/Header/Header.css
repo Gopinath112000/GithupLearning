@@ -1,0 +1,47 @@
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    flex-direction: column;
+    border: 1px solid;
+    width: 443px;
+    height: 349px;
+    border-radius: 10px;
+    margin-left: 30%;
+
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-size: 22px;
+}
+.box {
+    width: 361px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+ 
+    margin-bottom: 15px;
+}
+
+.subject{
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+.btn{
+    margin-left: 316px;
+    background: blue;
+    color: white;
+    border: none;
+    font-size: 16px;
+    padding: 6px 9px;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
